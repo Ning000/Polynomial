@@ -13,4 +13,4 @@ You can store the number and values of coefficient in two files, which will be 5
 
 The first number is the numbers of coefficient.
 
-Then you will get 5 1 2 6 6 6.nomial
+Then you will get 5 1 2 6 6 6.
