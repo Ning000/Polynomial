@@ -1,6 +1,8 @@
 # Polynomial
 This is a function to get the result of adding up two polynomials.
 
+There will be a single line which begins with an integer that represents the length of the polynomial
+
 For example:
 
 1x^4+2x^3+3x^2+4x+5
